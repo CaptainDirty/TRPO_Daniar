@@ -1,0 +1,16 @@
+D:\Учеба\Технология разработки ПО\BallSector\TRPO-Lab3.ConsoleApp\bin\Debug\netcoreapp3.1\TRPO-Lab3.ConsoleApp.exe
+D:\Учеба\Технология разработки ПО\BallSector\TRPO-Lab3.ConsoleApp\bin\Debug\netcoreapp3.1\TRPO-Lab3.ConsoleApp.deps.json
+D:\Учеба\Технология разработки ПО\BallSector\TRPO-Lab3.ConsoleApp\bin\Debug\netcoreapp3.1\TRPO-Lab3.ConsoleApp.runtimeconfig.json
+D:\Учеба\Технология разработки ПО\BallSector\TRPO-Lab3.ConsoleApp\bin\Debug\netcoreapp3.1\TRPO-Lab3.ConsoleApp.runtimeconfig.dev.json
+D:\Учеба\Технология разработки ПО\BallSector\TRPO-Lab3.ConsoleApp\bin\Debug\netcoreapp3.1\TRPO-Lab3.ConsoleApp.dll
+D:\Учеба\Технология разработки ПО\BallSector\TRPO-Lab3.ConsoleApp\bin\Debug\netcoreapp3.1\TRPO-Lab3.ConsoleApp.pdb
+D:\Учеба\Технология разработки ПО\BallSector\TRPO-Lab3.ConsoleApp\bin\Debug\netcoreapp3.1\TRPO-Lab3.Lib.dll
+D:\Учеба\Технология разработки ПО\BallSector\TRPO-Lab3.ConsoleApp\bin\Debug\netcoreapp3.1\TRPO-Lab3.Lib.pdb
+D:\Учеба\Технология разработки ПО\BallSector\TRPO-Lab3.ConsoleApp\obj\Debug\netcoreapp3.1\TRPO-Lab3.ConsoleApp.csprojAssemblyReference.cache
+D:\Учеба\Технология разработки ПО\BallSector\TRPO-Lab3.ConsoleApp\obj\Debug\netcoreapp3.1\TRPO-Lab3.ConsoleApp.AssemblyInfoInputs.cache
+D:\Учеба\Технология разработки ПО\BallSector\TRPO-Lab3.ConsoleApp\obj\Debug\netcoreapp3.1\TRPO-Lab3.ConsoleApp.AssemblyInfo.cs
+D:\Учеба\Технология разработки ПО\BallSector\TRPO-Lab3.ConsoleApp\obj\Debug\netcoreapp3.1\TRPO-Lab3.ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Учеба\Технология разработки ПО\BallSector\TRPO-Lab3.ConsoleApp\obj\Debug\netcoreapp3.1\TRPO-Lab3.ConsoleApp.csproj.CopyComplete
+D:\Учеба\Технология разработки ПО\BallSector\TRPO-Lab3.ConsoleApp\obj\Debug\netcoreapp3.1\TRPO-Lab3.ConsoleApp.dll
+D:\Учеба\Технология разработки ПО\BallSector\TRPO-Lab3.ConsoleApp\obj\Debug\netcoreapp3.1\TRPO-Lab3.ConsoleApp.pdb
+D:\Учеба\Технология разработки ПО\BallSector\TRPO-Lab3.ConsoleApp\obj\Debug\netcoreapp3.1\TRPO-Lab3.ConsoleApp.genruntimeconfig.cache

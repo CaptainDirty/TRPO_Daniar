@@ -1,0 +1,17 @@
+D:\Учеба\Технология разработки ПО\trpo-master\TRPO-Lab3.Lib\bin\Debug\netcoreapp3.1\TRPO-Lab3.Lib.deps.json
+D:\Учеба\Технология разработки ПО\trpo-master\TRPO-Lab3.Lib\bin\Debug\netcoreapp3.1\TRPO-Lab3.Lib.dll
+D:\Учеба\Технология разработки ПО\trpo-master\TRPO-Lab3.Lib\bin\Debug\netcoreapp3.1\TRPO-Lab3.Lib.pdb
+D:\Учеба\Технология разработки ПО\trpo-master\TRPO-Lab3.Lib\obj\Debug\netcoreapp3.1\TRPO-Lab3.Lib.AssemblyInfoInputs.cache
+D:\Учеба\Технология разработки ПО\trpo-master\TRPO-Lab3.Lib\obj\Debug\netcoreapp3.1\TRPO-Lab3.Lib.AssemblyInfo.cs
+D:\Учеба\Технология разработки ПО\trpo-master\TRPO-Lab3.Lib\obj\Debug\netcoreapp3.1\TRPO-Lab3.Lib.csproj.CoreCompileInputs.cache
+D:\Учеба\Технология разработки ПО\trpo-master\TRPO-Lab3.Lib\obj\Debug\netcoreapp3.1\TRPO-Lab3.Lib.dll
+D:\Учеба\Технология разработки ПО\trpo-master\TRPO-Lab3.Lib\obj\Debug\netcoreapp3.1\TRPO-Lab3.Lib.pdb
+D:\Учеба\Технология разработки ПО\BallSector\TRPO-Lab3.Lib\bin\Debug\netcoreapp3.1\TRPO-Lab3.Lib.deps.json
+D:\Учеба\Технология разработки ПО\BallSector\TRPO-Lab3.Lib\bin\Debug\netcoreapp3.1\TRPO-Lab3.Lib.dll
+D:\Учеба\Технология разработки ПО\BallSector\TRPO-Lab3.Lib\bin\Debug\netcoreapp3.1\TRPO-Lab3.Lib.pdb
+D:\Учеба\Технология разработки ПО\BallSector\TRPO-Lab3.Lib\obj\Debug\netcoreapp3.1\TRPO-Lab3.Lib.csprojAssemblyReference.cache
+D:\Учеба\Технология разработки ПО\BallSector\TRPO-Lab3.Lib\obj\Debug\netcoreapp3.1\TRPO-Lab3.Lib.AssemblyInfoInputs.cache
+D:\Учеба\Технология разработки ПО\BallSector\TRPO-Lab3.Lib\obj\Debug\netcoreapp3.1\TRPO-Lab3.Lib.AssemblyInfo.cs
+D:\Учеба\Технология разработки ПО\BallSector\TRPO-Lab3.Lib\obj\Debug\netcoreapp3.1\TRPO-Lab3.Lib.csproj.CoreCompileInputs.cache
+D:\Учеба\Технология разработки ПО\BallSector\TRPO-Lab3.Lib\obj\Debug\netcoreapp3.1\TRPO-Lab3.Lib.dll
+D:\Учеба\Технология разработки ПО\BallSector\TRPO-Lab3.Lib\obj\Debug\netcoreapp3.1\TRPO-Lab3.Lib.pdb
